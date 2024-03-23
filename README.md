@@ -1,2 +1,4 @@
-# Android_Projects
-A series of small projects implemented for the course of 'Mobile Applications Laboratory' at the Computer Science Department of UNIBO.
+# MyLogin
+A simple login and register app implemented for the course of 'Mobile Applications Laboratory' at the Computer Science Department of UNIBO.
+
+## Use of Firebase Authentication
