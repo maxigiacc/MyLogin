@@ -1,10 +1,10 @@
 # Firebase Authentication Demo App
 Questo progetto è un'applicazione di demo che illustra l'implementazione del login e dell'autenticazione utilizzando Firebase Authentication.
 
-# # Descrizione
+## Descrizione
 L'applicazione simula un processo di login e autenticazione tramite Firebase Authentication. Gli utenti possono registrarsi con un'email e una password, accedere all'applicazione utilizzando le loro credenziali e successivamente disconnettersi.
 
-# # Funzionalità
+## Funzionalità
 Registrazione degli utenti con email e password tramite Firebase Authentication.
 Accesso degli utenti registrati all'applicazione.
 Logout degli utenti.
